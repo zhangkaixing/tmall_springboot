@@ -9,26 +9,25 @@ import javax.persistence.JoinColumn;
 import javax.persistence.ManyToOne;
 import javax.persistence.Table;
 
+import com.fasterxml.jackson.annotation.JsonBackReference;
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 
 @Entity
-@Table(name = "property")
-@JsonIgnoreProperties({ "handler","hibernateLazyInitializer" })
-public class Property {
+@Table(name = "productimage")
+@JsonIgnoreProperties({ "handler","hibernateLazyInitializer"})
+public class ProductImage {
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     @Column(name = "id")
     private int id;
 
-    @Column(name = "name")
-    private String name;
-
     @ManyToOne
-    @JoinColumn(name="cid")
+    @JoinColumn(name="pid")
+    @JsonBackReference
+    private Product product;
 
-    private Category category;
-
+    private String type;
     public int getId() {
         return id;
     }
@@ -37,23 +36,16 @@ public class Property {
         this.id = id;
     }
 
-    public String getName() {
-        return name;
+    public String getType() {
+        return type;
     }
-    public void setName(String name) {
-        this.name = name;
+    public void setType(String type) {
+        this.type = type;
     }
-
-    public Category getCategory() {
-        return category;
+    public Product getProduct() {
+        return product;
     }
-    public void setCategory(Category category) {
-        this.category = category;
+    public void setProduct(Product product) {
+        this.product = product;
     }
-
-    @Override
-    public String toString() {
-        return "Property [id=" + id + ", name=" + name + ", category=" + category + "]";
-    }
-
 }
