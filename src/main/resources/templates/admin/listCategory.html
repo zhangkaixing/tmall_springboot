@@ -26,7 +26,6 @@
                     var url =  this.uri+ "?start="+start;
                     axios.get(url).then(function(response) {
                         vue.pagination = response.data;
-                        alert(vue.pagination);
                         vue.beans = response.data.content   ;
                     });
                 },
