@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c83029b6-952f-4600-94e7-8ef4a066f98d" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/include/fore/product/modal4login.html" afterPath="$PROJECT_DIR$/src/main/resources/templates/include/fore/modal4login.html" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -49,8 +48,8 @@
       <file leaf-file-name="modal4login.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/resources/templates/include/fore/modal4login.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="8" column="58" lean-forward="true" selection-start-line="8" selection-start-column="58" selection-end-line="8" selection-end-column="58" />
+            <state relative-caret-position="230">
+              <caret line="13" column="42" lean-forward="true" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
               <folding />
             </state>
           </provider>
@@ -505,7 +504,7 @@
       <workItem from="1602819267632" duration="9471000" />
       <workItem from="1603071073469" duration="6408000" />
       <workItem from="1603101180639" duration="323000" />
-      <workItem from="1603183469574" duration="1940000" />
+      <workItem from="1603183469574" duration="1950000" />
     </task>
     <task id="LOCAL-00001" summary="mall">
       <created>1602669278934</created>
@@ -570,11 +569,18 @@
       <option name="project" value="LOCAL" />
       <updated>1603184571534</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="mall_2020_10_19">
+      <created>1603186372536</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1603186372536</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39638000" />
+    <option name="totallyTimeSpent" value="39648000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1038,8 +1044,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/templates/include/fore/modal4login.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="8" column="58" lean-forward="true" selection-start-line="8" selection-start-column="58" selection-end-line="8" selection-end-column="58" />
+        <state relative-caret-position="230">
+          <caret line="13" column="42" lean-forward="true" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
           <folding />
         </state>
       </provider>
