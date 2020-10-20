@@ -1,12 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c83029b6-952f-4600-94e7-8ef4a066f98d" name="Default" comment="mall">
+    <list default="true" id="c83029b6-952f-4600-94e7-8ef4a066f98d" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/templates/include.fore/category/categoryPage.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/templates/include.fore/category/productsByCategory.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/templates/include.fore/category/sortBar.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/templates/include.fore/footer.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/templates/include.fore/header.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/templates/include.fore/home/carousel.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/templates/include.fore/home/categoryAndcarousel.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/templates/include.fore/home/categoryMenu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/templates/include.fore/home/homePage.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/templates/include.fore/home/homepageCategoryProducts.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/templates/include.fore/home/productsAsideCategorys.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/templates/include.fore/homePage.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/templates/include.fore/login.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/templates/include.fore/loginPage.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/templates/include.fore/product/imgAndInfo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/templates/include.fore/product/modal4login.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/templates/include.fore/product/productDetail.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/templates/include.fore/product/productPage.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/templates/include.fore/product/productReview.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/templates/include.fore/productsBySearch.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/templates/include.fore/registerPage.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/templates/include.fore/registerSuccessPage.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/templates/include.fore/search.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/templates/include.fore/searchPage.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/templates/include.fore/simpleSearch.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/templates/include.fore/top.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/templates/include/admin/adminFooter.html" afterPath="$PROJECT_DIR$/target/classes/templates/include/admin/adminFooter.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/templates/include/admin/adminHeader.html" afterPath="$PROJECT_DIR$/target/classes/templates/include/admin/adminHeader.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/templates/include/admin/adminNavigator.html" afterPath="$PROJECT_DIR$/target/classes/templates/include/admin/adminNavigator.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/templates/include/admin/adminPage.html" afterPath="$PROJECT_DIR$/target/classes/templates/include/admin/adminPage.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/include.fore/category/categoryPage.html" afterPath="$PROJECT_DIR$/src/main/resources/templates/include/fore/category/categoryPage.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/include.fore/category/productsByCategory.html" afterPath="$PROJECT_DIR$/src/main/resources/templates/include/fore/category/productsByCategory.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/include.fore/category/sortBar.html" afterPath="$PROJECT_DIR$/src/main/resources/templates/include/fore/category/sortBar.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/include.fore/footer.html" afterPath="$PROJECT_DIR$/src/main/resources/templates/include/fore/footer.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/include.fore/header.html" afterPath="$PROJECT_DIR$/src/main/resources/templates/include/fore/header.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/include.fore/home/carousel.html" afterPath="$PROJECT_DIR$/src/main/resources/templates/include/fore/home/carousel.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/include.fore/home/categoryAndcarousel.html" afterPath="$PROJECT_DIR$/src/main/resources/templates/include/fore/home/categoryAndcarousel.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/include.fore/home/categoryMenu.html" afterPath="$PROJECT_DIR$/src/main/resources/templates/include/fore/home/categoryMenu.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/include.fore/home/homePage.html" afterPath="$PROJECT_DIR$/src/main/resources/templates/include/fore/home/homePage.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/include.fore/home/homepageCategoryProducts.html" afterPath="$PROJECT_DIR$/src/main/resources/templates/include/fore/home/homepageCategoryProducts.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/include.fore/home/productsAsideCategorys.html" afterPath="$PROJECT_DIR$/src/main/resources/templates/include/fore/home/productsAsideCategorys.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/include.fore/homePage.html" afterPath="$PROJECT_DIR$/src/main/resources/templates/include/fore/homePage.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/include.fore/login.html" afterPath="$PROJECT_DIR$/src/main/resources/templates/include/fore/login.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/include.fore/loginPage.html" afterPath="$PROJECT_DIR$/src/main/resources/templates/include/fore/loginPage.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/include.fore/product/imgAndInfo.html" afterPath="$PROJECT_DIR$/src/main/resources/templates/include/fore/product/imgAndInfo.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/include.fore/product/modal4login.html" afterPath="$PROJECT_DIR$/src/main/resources/templates/include/fore/product/modal4login.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/include.fore/product/productDetail.html" afterPath="$PROJECT_DIR$/src/main/resources/templates/include/fore/product/productDetail.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/include.fore/product/productPage.html" afterPath="$PROJECT_DIR$/src/main/resources/templates/include/fore/product/productPage.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/include.fore/product/productReview.html" afterPath="$PROJECT_DIR$/src/main/resources/templates/include/fore/product/productReview.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/include.fore/productsBySearch.html" afterPath="$PROJECT_DIR$/src/main/resources/templates/include/fore/productsBySearch.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/include.fore/registerPage.html" afterPath="$PROJECT_DIR$/src/main/resources/templates/include/fore/registerPage.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/include.fore/registerSuccessPage.html" afterPath="$PROJECT_DIR$/src/main/resources/templates/include/fore/registerSuccessPage.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/include.fore/search.html" afterPath="$PROJECT_DIR$/src/main/resources/templates/include/fore/search.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/include.fore/searchPage.html" afterPath="$PROJECT_DIR$/src/main/resources/templates/include/fore/searchPage.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/include.fore/simpleSearch.html" afterPath="$PROJECT_DIR$/src/main/resources/templates/include/fore/simpleSearch.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/include.fore/top.html" afterPath="$PROJECT_DIR$/src/main/resources/templates/include/fore/top.html" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,7 +76,28 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
+    <leaf>
+      <file leaf-file-name="header.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/templates/include/fore/header.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="16" lean-forward="false" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="register.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/templates/fore/register.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -175,7 +244,7 @@
       <showMembers />
       <showModules />
       <showLibraryContents />
-      <hideEmptyPackages />
+      <hideEmptyPackages ProjectPane="false" />
       <abbreviatePackageNames />
       <autoscrollToSource />
       <autoscrollFromSource />
@@ -184,7 +253,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
@@ -243,13 +311,83 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
               <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="include" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tmall_springboot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tmall_springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="include" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tmall_springboot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tmall_springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="include" type="462c0819:PsiDirectoryNode" />
+              <item name="fore" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tmall_springboot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tmall_springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tmall_springboot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tmall_springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tmall_springboot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tmall_springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tmall_springboot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tmall_springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="include" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tmall_springboot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tmall_springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="include" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tmall_springboot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tmall_springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
               <item name="include.fore" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tmall_springboot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tmall_springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="generated-sources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -391,7 +529,8 @@
       <workItem from="1602666354184" duration="15393000" />
       <workItem from="1602819267632" duration="9471000" />
       <workItem from="1603071073469" duration="6408000" />
-      <workItem from="1603101180639" duration="207000" />
+      <workItem from="1603101180639" duration="323000" />
+      <workItem from="1603183469574" duration="1039000" />
     </task>
     <task id="LOCAL-00001" summary="mall">
       <created>1602669278934</created>
@@ -442,11 +581,18 @@
       <option name="project" value="LOCAL" />
       <updated>1603100607944</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="mall_2020_10_19">
+      <created>1603101413379</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1603101413379</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37582000" />
+    <option name="totallyTimeSpent" value="38737000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -459,9 +605,10 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1298" height="770" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.469459" sideWeight="0.250817" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2408377" sideWeight="0.12990196" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924837" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -477,10 +624,10 @@
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32942554" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31413612" sideWeight="0.749183" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2408377" sideWeight="0.87009805" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32942554" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32942554" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26879084" sideWeight="0.5" order="6" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27042484" sideWeight="0.5" order="6" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924837" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -536,7 +683,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="mall" />
-    <option name="LAST_COMMIT_MESSAGE" value="mall" />
+    <MESSAGE value="mall_2020_10_19" />
+    <option name="LAST_COMMIT_MESSAGE" value="mall_2020_10_19" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -570,7 +718,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/include.fore/searchPage.html">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/include/fore/searchPage.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="402">
           <caret line="32" column="41" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
@@ -598,28 +746,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/include.fore/productsBySearch.html">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/include/fore/productsBySearch.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="644">
           <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/include.fore/registerSuccessPage.html">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/include/fore/registerSuccessPage.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
           <caret line="5" column="6" lean-forward="false" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/include.fore/registerPage.html">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/include/fore/registerPage.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="409">
           <caret line="91" column="6" lean-forward="false" selection-start-line="91" selection-start-column="6" selection-end-line="91" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/include.fore/simpleSearch.html">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/include/fore/simpleSearch.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="229">
           <caret line="17" column="6" lean-forward="false" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
@@ -787,56 +935,56 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/include.fore/category/categoryPage.html">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/include/fore/category/categoryPage.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-46">
           <caret line="37" column="37" lean-forward="true" selection-start-line="37" selection-start-column="37" selection-end-line="37" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/include.fore/category/productsByCategory.html">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/include/fore/category/productsByCategory.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/include.fore/category/sortBar.html">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/include/fore/category/sortBar.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/include.fore/home/carousel.html">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/include/fore/home/carousel.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="7" lean-forward="false" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/include.fore/home/categoryAndcarousel.html">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/include/fore/home/categoryAndcarousel.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/include.fore/home/categoryMenu.html">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/include/fore/home/categoryMenu.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="7" lean-forward="false" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/include.fore/home/homePage.html">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/include/fore/home/homePage.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/include.fore/home/homepageCategoryProducts.html">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/include/fore/home/homepageCategoryProducts.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -844,7 +992,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/include.fore/home/productsAsideCategorys.html">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/include/fore/home/productsAsideCategorys.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="7" lean-forward="false" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
@@ -852,7 +1000,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/include.fore/product/imgAndInfo.html">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/include/fore/product/imgAndInfo.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
@@ -860,26 +1008,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/include.fore/product/modal4login.html">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/include/fore/product/modal4login.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/include.fore/header.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="16" lean-forward="false" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/fore/register.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="50" lean-forward="false" selection-start-line="8" selection-start-column="50" selection-end-line="8" selection-end-column="50" />
           <folding />
         </state>
       </provider>
@@ -888,7 +1020,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="305">
           <caret line="58" column="5" lean-forward="true" selection-start-line="58" selection-start-column="5" selection-end-line="58" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -896,7 +1027,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
           <caret line="11" column="26" lean-forward="false" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -908,10 +1038,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/include.fore/product/productDetail.html">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/include/fore/product/productDetail.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/include/fore/header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="16" lean-forward="false" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/fore/register.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
           <folding />
         </state>
       </provider>
