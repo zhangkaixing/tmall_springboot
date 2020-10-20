@@ -2,59 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c83029b6-952f-4600-94e7-8ef4a066f98d" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/templates/include.fore/category/categoryPage.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/templates/include.fore/category/productsByCategory.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/templates/include.fore/category/sortBar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/templates/include.fore/footer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/templates/include.fore/header.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/templates/include.fore/home/carousel.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/templates/include.fore/home/categoryAndcarousel.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/templates/include.fore/home/categoryMenu.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/templates/include.fore/home/homePage.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/templates/include.fore/home/homepageCategoryProducts.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/templates/include.fore/home/productsAsideCategorys.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/templates/include.fore/homePage.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/templates/include.fore/login.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/templates/include.fore/loginPage.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/templates/include.fore/product/imgAndInfo.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/templates/include.fore/product/modal4login.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/templates/include.fore/product/productDetail.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/templates/include.fore/product/productPage.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/templates/include.fore/product/productReview.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/templates/include.fore/productsBySearch.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/templates/include.fore/registerPage.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/templates/include.fore/registerSuccessPage.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/templates/include.fore/search.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/templates/include.fore/searchPage.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/templates/include.fore/simpleSearch.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/resources/templates/include.fore/top.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/include.fore/category/categoryPage.html" afterPath="$PROJECT_DIR$/src/main/resources/templates/include/fore/category/categoryPage.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/include.fore/category/productsByCategory.html" afterPath="$PROJECT_DIR$/src/main/resources/templates/include/fore/category/productsByCategory.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/include.fore/category/sortBar.html" afterPath="$PROJECT_DIR$/src/main/resources/templates/include/fore/category/sortBar.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/include.fore/footer.html" afterPath="$PROJECT_DIR$/src/main/resources/templates/include/fore/footer.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/include.fore/header.html" afterPath="$PROJECT_DIR$/src/main/resources/templates/include/fore/header.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/include.fore/home/carousel.html" afterPath="$PROJECT_DIR$/src/main/resources/templates/include/fore/home/carousel.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/include.fore/home/categoryAndcarousel.html" afterPath="$PROJECT_DIR$/src/main/resources/templates/include/fore/home/categoryAndcarousel.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/include.fore/home/categoryMenu.html" afterPath="$PROJECT_DIR$/src/main/resources/templates/include/fore/home/categoryMenu.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/include.fore/home/homePage.html" afterPath="$PROJECT_DIR$/src/main/resources/templates/include/fore/home/homePage.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/include.fore/home/homepageCategoryProducts.html" afterPath="$PROJECT_DIR$/src/main/resources/templates/include/fore/home/homepageCategoryProducts.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/include.fore/home/productsAsideCategorys.html" afterPath="$PROJECT_DIR$/src/main/resources/templates/include/fore/home/productsAsideCategorys.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/include.fore/homePage.html" afterPath="$PROJECT_DIR$/src/main/resources/templates/include/fore/homePage.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/include.fore/login.html" afterPath="$PROJECT_DIR$/src/main/resources/templates/include/fore/login.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/include.fore/loginPage.html" afterPath="$PROJECT_DIR$/src/main/resources/templates/include/fore/loginPage.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/include.fore/product/imgAndInfo.html" afterPath="$PROJECT_DIR$/src/main/resources/templates/include/fore/product/imgAndInfo.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/include.fore/product/modal4login.html" afterPath="$PROJECT_DIR$/src/main/resources/templates/include/fore/product/modal4login.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/include.fore/product/productDetail.html" afterPath="$PROJECT_DIR$/src/main/resources/templates/include/fore/product/productDetail.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/include.fore/product/productPage.html" afterPath="$PROJECT_DIR$/src/main/resources/templates/include/fore/product/productPage.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/include.fore/product/productReview.html" afterPath="$PROJECT_DIR$/src/main/resources/templates/include/fore/product/productReview.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/include.fore/productsBySearch.html" afterPath="$PROJECT_DIR$/src/main/resources/templates/include/fore/productsBySearch.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/include.fore/registerPage.html" afterPath="$PROJECT_DIR$/src/main/resources/templates/include/fore/registerPage.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/include.fore/registerSuccessPage.html" afterPath="$PROJECT_DIR$/src/main/resources/templates/include/fore/registerSuccessPage.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/include.fore/search.html" afterPath="$PROJECT_DIR$/src/main/resources/templates/include/fore/search.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/include.fore/searchPage.html" afterPath="$PROJECT_DIR$/src/main/resources/templates/include/fore/searchPage.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/include.fore/simpleSearch.html" afterPath="$PROJECT_DIR$/src/main/resources/templates/include/fore/simpleSearch.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/include.fore/top.html" afterPath="$PROJECT_DIR$/src/main/resources/templates/include/fore/top.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/templates/include/fore/product/modal4login.html" afterPath="$PROJECT_DIR$/src/main/resources/templates/include/fore/modal4login.html" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -87,11 +36,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="register.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="register.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/templates/fore/register.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+            <state relative-caret-position="253">
+              <caret line="11" column="7" lean-forward="false" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="modal4login.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/templates/include/fore/modal4login.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="8" column="58" lean-forward="true" selection-start-line="8" selection-start-column="58" selection-end-line="8" selection-end-column="58" />
               <folding />
             </state>
           </provider>
@@ -231,7 +190,8 @@
     <option name="vmOptions" value="-DarchetypeCatalog=local" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="3" />
+    <option name="x" value="65" />
+    <option name="y" value="-10" />
     <option name="width" value="1278" />
     <option name="height" value="752" />
   </component>
@@ -336,6 +296,28 @@
             <path>
               <item name="tmall_springboot" type="b2602c69:ProjectViewProjectNode" />
               <item name="tmall_springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="include" type="462c0819:PsiDirectoryNode" />
+              <item name="fore" type="462c0819:PsiDirectoryNode" />
+              <item name="home" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tmall_springboot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tmall_springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="include" type="462c0819:PsiDirectoryNode" />
+              <item name="fore" type="462c0819:PsiDirectoryNode" />
+              <item name="product" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tmall_springboot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tmall_springboot" type="462c0819:PsiDirectoryNode" />
               <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -372,14 +354,6 @@
               <item name="tmall_springboot" type="b2602c69:ProjectViewProjectNode" />
               <item name="tmall_springboot" type="462c0819:PsiDirectoryNode" />
               <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="classes" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="include.fore" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tmall_springboot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tmall_springboot" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
               <item name="generated-sources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -408,6 +382,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\ftp\tmall_springboot\src\main\resources\templates\include\fore" />
       <recent name="E:\ftp\tmall_springboot\src\main\resources\templates\include.fore" />
       <recent name="E:\ftp\tmall_springboot\src\main\resources\templates\fore" />
       <recent name="E:\ftp\tmall_springboot\src\main\resources\templates\include\admin" />
@@ -530,7 +505,7 @@
       <workItem from="1602819267632" duration="9471000" />
       <workItem from="1603071073469" duration="6408000" />
       <workItem from="1603101180639" duration="323000" />
-      <workItem from="1603183469574" duration="1039000" />
+      <workItem from="1603183469574" duration="1940000" />
     </task>
     <task id="LOCAL-00001" summary="mall">
       <created>1602669278934</created>
@@ -588,11 +563,18 @@
       <option name="project" value="LOCAL" />
       <updated>1603101413379</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="mall_2020_10_19">
+      <created>1603184571534</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1603184571534</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38737000" />
+    <option name="totallyTimeSpent" value="39638000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1008,14 +990,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/include/fore/product/modal4login.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://E:/SSM/app/maven/repository/org/springframework/spring-orm/4.3.13.RELEASE/spring-orm-4.3.13.RELEASE.jar!/org/springframework/orm/jpa/EntityManagerFactoryUtils.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="305">
@@ -1056,8 +1030,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/templates/fore/register.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        <state relative-caret-position="253">
+          <caret line="11" column="7" lean-forward="false" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/include/fore/modal4login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="8" column="58" lean-forward="true" selection-start-line="8" selection-start-column="58" selection-end-line="8" selection-end-column="58" />
           <folding />
         </state>
       </provider>
